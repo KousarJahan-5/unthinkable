@@ -1,0 +1,24 @@
+Senior Full-Stack AI Engineer
+
+About the Role:
+We are seeking an experienced Senior Full-Stack AI Engineer to design and deploy scalable GenAI web applications. You will architect robust Python/FastAPI microservices, build responsive React TypeScript user interfaces, and integrate cutting-edge LLMs and RAG pipelines.
+
+Required Qualifications:
+- 5+ years of software engineering experience.
+- Strong proficiency in Python and modern web frameworks (FastAPI or Django).
+- Hands-on expertise with React, TypeScript, and modern frontend state management.
+- Deep practical experience with LLMs, Prompt Engineering, RAG (Retrieval Augmented Generation), and vector search.
+- Strong relational database design skills with PostgreSQL or SQL.
+- Experience with Docker containerization and CI/CD pipelines.
+- Bachelor's or Master's degree in Computer Science or related STEM discipline.
+
+Preferred / Nice to Have:
+- Experience with PyTorch or TensorFlow model fine-tuning.
+- Kubernetes (K8s) deployment experience on AWS or GCP.
+- Contributions to open-source AI or full-stack projects.
+
+Core Responsibilities:
+- Build low-latency RESTful APIs and real-time streaming endpoints for AI applications.
+- Design intuitive recruiter and candidate dashboards with React & Tailwind CSS.
+- Optimize LLM prompt chains, implement structured schema validation, and benchmark semantic accuracy.
+- Collaborate with product and design teams in an Agile/Scrum environment.

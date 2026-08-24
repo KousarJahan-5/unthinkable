@@ -1,0 +1,17 @@
+
+Alex Chen
+San Francisco, CA | alex@example.com | +1 (415) 555-0192
+
+Summary:
+Senior AI Engineer with 6 years of experience building Python and FastAPI microservices, LLMs, and RAG pipelines.
+
+Skills:
+Python, FastAPI, PostgreSQL, LLM, RAG, PyTorch, Docker, Kubernetes, React, TypeScript, AWS, CI/CD
+
+Work Experience:
+Senior AI Engineer | 2021 - Present
+- Built GenAI services using FastAPI and PyTorch.
+- Designed vector databases and RAG pipelines.
+
+Education:
+Master of Science in Computer Science | Stanford University (2018)
